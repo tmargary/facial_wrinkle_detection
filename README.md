@@ -1,5 +1,5 @@
 # Facial Wrinkle Detection
-facial_wrinkle_detection for AI Incubator
+Hero House AI Incubation Program
 
 The script converts the image into grayscale, resizes the image, and detects the edges (wrinkles) on the person's face. Based on the number of edges, the program detects if the person has significant number of wrinkles. The optimal number of edges is found empirically.
 
